@@ -1,0 +1,13 @@
+nav a, button{
+    min-width: 48px;
+    min-height: 48px;
+}
+body{
+    background-color: rgb(116, 116, 116);
+    
+        margin: auto;
+        width: 50%;
+        border: 3px solid #131313;
+        padding: 10px;
+      
+}
